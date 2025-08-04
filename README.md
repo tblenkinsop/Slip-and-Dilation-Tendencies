@@ -30,5 +30,5 @@ ST: Normalised Slip Tendency
 
 DT: Normalsied Dilation Tendency
 
-Import the csv file as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text
+Import the csv file to a GIS as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text
 
