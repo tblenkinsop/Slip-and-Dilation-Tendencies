@@ -4,17 +4,17 @@ calculated using the stresses from Kingdon, A., Williams, J., Fellgett, M., Rett
 Please cite "Variations in the in-situ stress field affect slip and dilation tendencies of UK onshore faults" T. G. Blenkinsop (in prep)<br>
 
 Column headings:<br>
-segment: segment number<br>
-fault: fault number<br>
-SH azi: Azimuth of maximum horizotal stress<br>
-dip: segment dip<br>
-Dip direction: segment dip direction<br>
-ts1 etc.: trend of sigma 1, 2, 3<br>
-ps1 etc: plunge of sigma 1, 2, 3<br>
-phi: Bishop's stress ratio<br>
-theta_deg: Angle of internal friction<br>
-ST: Normalised Slip Tendency<br>
-DT: Normalised Dilation Tendency<br>
+**segment**: segment number<br>
+**fault**: fault number<br>
+**SH azi**: Azimuth of maximum horizotal stress<br>
+**dip**: segment dip<br>
+**Dip direction**: segment dip direction<br>
+**ts1 etc.**: trend of sigma 1, 2, 3<br>
+**ps1 etc.**: plunge of sigma 1, 2, 3<br>
+**phi**: Bishop's stress ratio<br>
+**theta_deg**: Angle of internal friction<br>
+**ST**: Normalised Slip Tendency<br>
+**DT**: Normalised Dilation Tendency<br>
 
 Import the csv file to a GIS as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text<br>
 Labels are provded as a .gpkg file<br>
