@@ -32,3 +32,7 @@ DT: Normalsied Dilation Tendency
 
 Import the csv file to a GIS as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text
 
+Labels are provded as a .gpkg file
+
+The Slip and Dilation tendencies are also avialable in gpkg format
+
