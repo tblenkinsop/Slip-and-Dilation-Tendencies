@@ -16,7 +16,8 @@ ps1 etc: plunge of sigma 1, 2, 3<br>
 phi: Bishop's stress ratio<br>
 theta_deg: Angle of internal friction<br>
 ST: Normalised Slip Tendency<br>
-DT: Normalsied Dilation Tendency<br>
+DT: Normalised Dilation Tendency<br>
+
 Import the csv file to a GIS as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text<br>
 Labels are provded as a .gpkg file<br>
 The Slip and Dilation tendencies are also avialable in gpkg format<br>
