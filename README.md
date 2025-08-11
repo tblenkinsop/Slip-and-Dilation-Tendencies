@@ -8,13 +8,12 @@ T. G. Blenkinsop (in prep)
 
 Column headings:
 
-segment: segment number
-
+segment: segment number<br>
 fault: fault number
 
 SH azi: Azimuth of maximum horizotal stress
 
-dip: segement dip
+dip: segment dip
 
 Dip direction: segment dip direction
 
