@@ -19,4 +19,4 @@ Column headings:<br>
 Import the csv file to a GIS as a text-delimited file, noting that the geographic information for the fault segmetns is in the final column as WKT text<br>
 Labels are provded as a .gpkg file<br>
 The Slip and Dilation tendencies are also avialable in gpkg format<br>
-
+Please note that the spacing of the interpolated stresses in Fig. 1 of the above paper is 0.2° not 0.1° as stated in the paper.
