@@ -1,7 +1,7 @@
 # Slip-and-Dilation-Tendencies
 These files contain the slip and dilation tendencies of segments from 2741 faults (https://www.bgs.ac.uk/datasets/bgs-geology/) <br>
 calculated using the stresses from Kingdon, A., Williams, J., Fellgett, M., Rettelbach, N., Heidbach, O., 2022. Stress Map of Great Britain and Ireland 2022.<br>
-Please cite "Variations in the in-situ stress field affect slip and dilation tendencies of UK onshore faults" T. G. Blenkinsop (in prep)<br>
+Please cite Blenkinsop, T. G. (2026). How variations in intraplate stresses affect slip and dilation tendencies of faults: The onshore United Kingdom example. Journal of Structural Geology, 202, 105571. https://doi.org/10.1016/j.jsg.2025.105571
 
 Column headings:<br>
 **segment**: segment number<br>
